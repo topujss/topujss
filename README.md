@@ -1,1 +1,1 @@
-# Are you missing *Contribution* Today? Check the chart
+# Are you missing *Contribution* Today? Check the chart <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=topujss&label=Profile%20Views&color=0e75b6&style=flat-square&color=blueviolet" />
