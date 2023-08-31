@@ -1,6 +1,6 @@
 # Are you missing *Contribution* Today? Check the chart <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=topujss&label=Profile%20Views&color=0e75b6&style=flat-square&color=blueviolet" />
 
-<h2 align="center">Hello there! My name is Tapas Adhikary 👋🤓</h2>
+<h2 align="center">Hey there👋! My name is Toquir Ahmed Topu 🤓</h2>
 
 <p align=center>
   <a href="https://twitter.com/topujss"><img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/topujss?label=Follow%20on%20Twitter&style=social"></a>
