@@ -3,7 +3,8 @@
 <h2 align="center">Hey there👋! My name is Toquir Ahmed Topu 🤓</h2>
 
 <p align=center>
-  <a href="https://twitter.com/topujss"><img alt="Twitter Follow" height="30px" src="https://img.shields.io/twitter/follow/topujss?label=Follow%20on%20Twitter&style=social"></a>
+  <a target="_blank" href="https://linkedin.com/in/topujss"><img alt="Linkedin connection" height="30px" src="https://img.shields.io/twitter/follow/topujss?label=Connect%20on%20Linkedin&style=social&logo=linkedin"></a>
+
 </p>
 
 
